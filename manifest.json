@@ -1,0 +1,23 @@
+{
+  "name": "Connect Emploi",
+  "short_name": "Connect Emploi",
+  "description": "Découvre des métiers grâce au swipe.",
+  "start_url": "/Connect-emploi/",
+  "scope": "/Connect-emploi/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1D1E3C",
+  "theme_color": "#1D1E3C",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
